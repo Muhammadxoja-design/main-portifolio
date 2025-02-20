@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 const websiteUrl = "https://your-website.netlify.app";
-const pages = ["", "about", "projects", "contact"]; // Sahifalar ro'yxati
+const pages = ["", "about", "projects", "contact"]; // Sahifalar
 
 const generateSitemap = () => {
   let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
