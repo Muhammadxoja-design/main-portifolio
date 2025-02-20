@@ -1,0 +1,350 @@
+
+.me-1 {
+    width: 220px;
+    height: 230px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 3px;
+}
+
+.me-2 {
+    width: 63px;
+    height: 104.15px;
+    left: 14px;
+    top: 74.26px;
+    position: absolute;
+    color: #261d22;
+    font-size: 32px;
+    font-family: Chakra Petch;
+    font-weight: 700;
+    line-height: 36px;
+    word-wrap: break-word;
+}
+
+.me-3 {
+    width: 110px;
+    height: 3.86px;
+    left: 16px;
+    top: 38.57px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me-4 {
+    width: 110px;
+    height: 3.86px;
+    left: 16px;
+    top: 50.15px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me-5 {
+    width: 110px;
+    height: 3.86px;
+    left: 16px;
+    top: 61.72px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me-6 {
+    width: 33px;
+    height: 3.86px;
+    left: 93px;
+    top: 81.01px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me-7 {
+    width: 33px;
+    height: 3.86px;
+    left: 93px;
+    top: 92.58px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me-8 {
+    width: 33px;
+    height: 3.86px;
+    left: 93px;
+    top: 104.15px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me-9 {
+    width: 110px;
+    height: 3.86px;
+    left: 16px;
+    top: 187.09px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me-10 {
+    width: 110px;
+    height: 3.86px;
+    left: 16px;
+    top: 198.66px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me-11 {
+    width: 110px;
+    height: 3.86px;
+    left: 16px;
+    top: 210.23px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me-12 {
+    width: 62px;
+    height: 69.43px;
+    left: 142px;
+    top: 38.57px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me-13 {
+    width: 111px;
+    height: 48.22px;
+    left: 93px;
+    top: 123.44px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me-14 {
+    width: 54px;
+    height: 11.57px;
+    left: 16px;
+    top: 15.43px;
+    position: absolute;
+    color: #261d22;
+    font-size: 16px;
+    font-family: Chakra Petch;
+    font-weight: 700;
+    line-height: 12px;
+    word-wrap: break-word;
+}
+
+.me-15 {
+    width: 62px;
+    height: 11.57px;
+    left: 142px;
+    top: 202.52px;
+    position: absolute;
+    color: #261d22;
+    font-size: 16px;
+    font-family: Chakra Petch;
+    font-weight: 700;
+    line-height: 12px;
+    word-wrap: break-word;
+}
+
+.me1-1 {
+    width: 220px;
+    height: 229.52px;
+    left: 0px;
+    top: 0.27px;
+    position: absolute;
+    background: white;
+    border-radius: 3px;
+}
+
+.me1-2 {
+    width: 91px;
+    height: 87.76px;
+    left: 101px;
+    top: 24.38px;
+    position: absolute;
+    opacity: 0.4;
+    background: linear-gradient(229deg,
+            #261d22 0%,
+            rgba(38, 29, 34, 0) 100%);
+    border-radius: 9999px;
+}
+
+.me1-3 {
+    width: 62px;
+    height: 104.15px;
+    left: 142px;
+    top: 15.7px;
+    position: absolute;
+    text-align: right;
+    color: #261d22;
+    font-size: 32px;
+    font-family: Chakra Petch;
+    font-weight: 700;
+    line-height: 36px;
+    word-wrap: break-word;
+}
+
+.me1-4 {
+    width: 93px;
+    height: 3.86px;
+    left: 111px;
+    top: 125.64px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me1-5 {
+    width: 93px;
+    height: 3.86px;
+    left: 111px;
+    top: 137.21px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me1-6 {
+    width: 93px;
+    height: 3.86px;
+    left: 111px;
+    top: 148.79px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me1-7 {
+    width: 93px;
+    height: 3.86px;
+    left: 111px;
+    top: 160.36px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me1-8 {
+    width: 31px;
+    height: 29.9px;
+    left: 15px;
+    top: 184.47px;
+    position: absolute;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me1-9 {
+    width: 31px;
+    height: 29.9px;
+    left: 54px;
+    top: 184.47px;
+    position: absolute;
+    opacity: 0.8;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me1-10 {
+    width: 32px;
+    height: 29.9px;
+    left: 94px;
+    top: 184.47px;
+    position: absolute;
+    opacity: 0.6;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me1-11 {
+    width: 31px;
+    height: 29.9px;
+    left: 133px;
+    top: 184.47px;
+    position: absolute;
+    opacity: 0.4;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me1-12 {
+    width: 31px;
+    height: 29.9px;
+    left: 173px;
+    top: 184.47px;
+    position: absolute;
+    opacity: 0.2;
+    background: #261d22;
+    border-radius: 3px;
+}
+
+.me1-13 {
+    width: 64px;
+    height: 15.43px;
+    left: 15px;
+    top: 18.6px;
+    position: absolute;
+    color: #261d22;
+    font-size: 12px;
+    font-family: Chakra Petch;
+    font-style: italic;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+.me1-14 {
+    width: 65px;
+    height: 15.43px;
+    left: 15px;
+    top: 34.03px;
+    position: absolute;
+    color: #261d22;
+    font-size: 12px;
+    font-family: Chakra Petch;
+    font-style: italic;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.me1-15 {
+    width: 66px;
+    height: 15.43px;
+    left: 15px;
+    top: 49.46px;
+    position: absolute;
+    color: #261d22;
+    font-size: 12px;
+    font-family: Chakra Petch;
+    font-style: italic;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.me1-16 {
+    width: 67px;
+    height: 15.43px;
+    left: 15px;
+    top: 64.89px;
+    position: absolute;
+    color: #261d22;
+    font-size: 12px;
+    font-family: Chakra Petch;
+    font-style: italic;
+    font-weight: 600;
+    word-wrap: break-word;
+}
