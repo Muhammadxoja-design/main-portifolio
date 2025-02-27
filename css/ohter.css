@@ -1,11 +1,10 @@
-
 .me-1 {
     width: 220px;
     height: 230px;
     left: 0px;
     top: 0px;
     position: absolute;
-    background: white;
+    background: #00FFFF;
     border-radius: 3px;
 }
 
@@ -167,7 +166,7 @@
     left: 0px;
     top: 0.27px;
     position: absolute;
-    background: white;
+    background: #00FFFF;
     border-radius: 3px;
 }
 
