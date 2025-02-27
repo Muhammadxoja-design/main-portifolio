@@ -165,3 +165,17 @@ function loadMusic(song) {
   music.pause();
   music.currentTime = 0;
 }
+  document.addEventListener("DOMContentLoaded", function () {
+    let audio = document.getElementById("myAudio");
+    
+    // Pleerni avtomatik yuklash
+    audio.load();
+
+    // Pleerni avtomatik boshlash (barcha brauzerlarda ishlamaydi)
+    audio.play().catch(error => console.log("Autoplay blocked by browser", error));
+
+    // Audio yuklanganda trek nomini ko‘rsatish
+    audio.onloadedmetadata = function () {
+      console.log("Track duration:", audio.duration, "seconds");
+    };
+  });
