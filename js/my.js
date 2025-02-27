@@ -53,8 +53,6 @@ function loadMusic(song) {
   music.src = song.path;
   title.textContent = song.displayName;
   artist.textContent = song.artist;
-  image.src = song.cover;
-  background.src = song.cover;
 
   music.pause();
   music.currentTime = 0;
